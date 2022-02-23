@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The phoenix, sepulchre, &amp; cradle in the holy death of the right honourable Isabella, Theresa, Lucy, Marchioness of Winchester / by J.D.</title>
+            <author>J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37226</idno>
+            <idno type="STC">Wing D39</idno>
+            <idno type="STC">ESTC R33430</idno>
+            <idno type="EEBO-CITATION">13326119</idno>
+            <idno type="OCLC">ocm 13326119</idno>
+            <idno type="VID">99073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1548:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The phoenix, sepulchre, &amp; cradle in the holy death of the right honourable Isabella, Theresa, Lucy, Marchioness of Winchester / by J.D.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winchester, Isabella Theresa Lucy Paulet, --  Marchioness of, d. 1691.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99073:1" rendition="simple:additions"/>
+            <p>THE PHOENIX, SEPULCHRE &amp; CRADLE, IN THE HOLY DEATH OF THE Right Honourable <hi>Iſabella, Thereſa, Lucy;</hi> Marchioneſs of WINCHESTER.</p>
+            <p>By <hi>J. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:99073:2"/>
+            <pb n="3" facs="tcp:99073:2"/>
+            <head>A SERMON UPON The Death of the Right Honourable <hi>Iſabella, Tereſa, Lucy,</hi> Marchioneſs of <hi>Wincheſter.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB XXIX. xviij.</hi>
+                  </bibl>
+                  <p>In Nidulo meo moriar, &amp; ſicut Palma multiplicabo Dies</p>
+                  <p>I will die in my little Neſt, and I will multiply my Days as the Palm-Tree; <hi>or the</hi> Phoenix; <hi>as ſome tranſlate it, both from the</hi> He<g ref="char:EOLhyphen"/>brew, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>and the</hi> Greek, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+            </epigraph>
+            <div type="preface">
+               <head>PREFACE.</head>
+               <p>STrange Expreſſion! Illuſtrious Lords and Ladies; wherein <hi>Job</hi> joyns Death with Life, the Cradle with the Sepulchre, and Duſt with Immortality; to teach us, That as the <hi>Palm-Tree</hi> lives again in its Branches, and the <hi>Phoenix</hi> is born again of her Aſhes; ſo ſhall the Juſt ariſe again from Death, and multiply
+<pb n="4" facs="tcp:99073:3"/>their Days as the <hi>Sand</hi> of the Sea: <hi>In Nidulo moriar, &amp; ſicut Palma multiplicabo Dies.</hi> I made choice of this Noble Expreſſion, to allay, in ſome ſort, the Sorrow which I perceive in your Countenances, for the common Loſs of the Right Noble Lady, <hi>Iſabella, Thereſa, Lucy Stafford,</hi> Dowager to the moſt Noble <hi>John,</hi> Marquis of <hi>Wincheſter.</hi>
+               </p>
+               <p>But, as Painting is never more at a Loſs, than when it goes about to repreſent the Sun; for, though the Works of Painting out-do thoſe of Nature, and that with the delightful mixture of Colours, it repreſents the Enamel of the Meadows, and the Beauty of the Fields, all its Art ſeems to fail, when it goes about to expreſs the leaſt Beam of that glorious Planet. Eloquence, in like manner never ſhews it ſelf more deficient, than when it attempts to ſet forth the ſhining Vertues which Crown the Juſt,</p>
+               <p>None then, I hope will wonder, if I make Uſe of the Compariſon of the <hi>Phoenix,</hi> to give a general Notion of the holy Departure out of this Life of the Illuſtrious <hi>Iſabella.</hi> This heavenly Bird, that never toucheth the Earth, (ſuch love it hath for Heaven,) is a perfect Re<g ref="char:EOLhyphen"/>preſentation of the Change which the Reſurrection ſhall cauſe in our Bodies: For, according both to Sacred and Prophane Writers, ſhe builds to her ſelf a Sepulchre or Cradle, ſince ſhe dies therein, and is there born again. <hi>Tumulum mortui, vel Incunabulum reſurgentis dixeris;</hi> Ambr. <hi>Lib.</hi> V. Hexam 23. <hi>De Fide Reſurrectio<g ref="char:EOLhyphen"/>nis.</hi> Then ſetting Fire to this Funeral Pile, made up all
+<pb n="5" facs="tcp:99073:3"/>of Aromatick Wood, ſhe burns her ſelf in the Flames, and is born out of her own Aſhes, and riſeth again; and recovering new Vigour, ſoars as formerly, in the Plains of the Air, (an unparallell'd Object of Admiration,) with the Oars of her Wings.</p>
+               <p>Behold an Emblem of what happened to our Noble <hi>Iſabella:</hi> She died in a Sepulchre of Incenſe and Myrrhe; that is, of Love and Pain; and born again of this Cra<g ref="char:EOLhyphen"/>dle, ſhe, with the <hi>Phoenix,</hi> re-aſſumes a new Life; <hi>In Ni<g ref="char:EOLhyphen"/>dulo meo moriar, &amp; ſicut Palma multiplicabo dies.</hi> O hap<g ref="char:EOLhyphen"/>py Death! But, O more happy Reſurrection! O won<g ref="char:EOLhyphen"/>derful Metamorphoſis! O divine Transformation, which makes this moſt Chriſtian Lady die to old <hi>Adam,</hi> and die to her ſelf, that ſhe may live to Chriſt, and ſay with the Apoſtle, <hi>I live, not I; but Chriſt liveth in me,</hi> Gal. 2.20.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Diviſion.</hi>
+               </head>
+               <p>But give me leave to break off from this Compariſon of the <hi>Phoenix,</hi> to come directly to the Two Chriſtian Virtues which make up the proper Character of our Noble <hi>Marchioneſs,</hi> provided I can but Pencil them out.</p>
+               <list>
+                  <item>1. <hi>Her profound Humility in her Greatneſs.</hi>
+                  </item>
+                  <item>2. <hi>Her heroick Conſtancy in her Afflictions.</hi>
+                  </item>
+               </list>
+               <p>But, as we cannot ſee the Sun without Light, neither can we view the ſhining Vertues of the Juſt without the Light of Grace; which that we may more effectually
+<pb n="6" facs="tcp:99073:4"/>obtain, let us interpoſe the Interceſſion of that Bleſſed Virgin who was filled therewith, when the Angel ſaid to her, <hi>Ave Maria.</hi>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <head>PART I. <hi>Her profound Humility in her Greatneſs.</hi>
+               </head>
+               <p>GReatneſs is the Proper and true Character of God, and is ſo natural to him, that even in humbling himſelf, he cannot diveſt himſelf thereof. He is ſo great, that he neither can have a Companion, nor Equal, as earthly Princes, who ſhare their Power and Greatneſs with their Children, or their Favourites: Wherefore, when the Prophet would praiſe him, he is contented to ſay, <hi>Our Lord is great, and his Greatneſs has no Bound!,</hi> Pſal. 144.3. And in this, the Great Ones of the Land are the Noble Repreſentations of God.</p>
+               <p>The right Honourable and moſt Noble Lady, <hi>Iſabella,</hi> the Marchioneſs of <hi>Wincheſter,</hi> was <hi>Great</hi> in all the Con<g ref="char:EOLhyphen"/>ditions of her Life. Firſt, She was <hi>Great</hi> in her Birth, as being born of Two the moſt Illuſtrious Families of <hi>Great Britain:</hi> For, She being Daughter to the right Honourable <hi>William,</hi> Viſcount <hi>Stafford,</hi> lineally deſcen<g ref="char:EOLhyphen"/>ded from the Great, Noble, and large-ſpreading Family of the <hi>Howards,</hi> and conſequently of the High and Mighty Princes, the Dukes of <hi>Norfolk,</hi> Earls of <hi>Surrey,</hi> thoſe Lords High Admirals and Marſhals of <hi>England,</hi> the Conquerors and Thunderers of <hi>Scotland.</hi>
+               </p>
+               <pb n="7" facs="tcp:99073:4"/>
+               <p>
+                  <hi>Great</hi> ſhe was alſo by her Mother's Side: For, being Daughter to the right Honourable <hi>Mary,</hi> Baroneſs by Deſcent, ſole Heir and Counteſs of <hi>Stafford,</hi> ſhe is again lineally deſcended from the right Ancient, moſt Noble, Wealthy, and ever Pious Family of the <hi>Staffords,</hi> flouriſhing formerly in the higheſt Rank and Degrees of Honour in this Nation; and whereof <hi>Ro<g ref="char:EOLhyphen"/>bert Stafford,</hi> Baron of <hi>Stafford,</hi> was Lord High Steward of the Houſhold to King <hi>Edward the Confeſſor.</hi> This <hi>Robert</hi>'s Poſterity grew up yet more Illuſtrious, not only by being ingrafted into the Houſe of <hi>Lancaſter,</hi> and into that of the Famous <hi>Godfrey</hi> of <hi>Bullen;</hi> but alſo by a long Succeſſion of Signal Heroes, both in the Church and State; ſuch as <hi>Ralph,</hi> the firſt and renowned Earl of <hi>Stafford,</hi> with his Glorious Poſterity, the <hi>Henries,</hi> Dukes of <hi>Buckingham,</hi> whom we may ſtile, <hi>The Maker of Kings.</hi> And from ſuch a bright Conſtellation of Souldiers, Stateſmen, Earls, Dukes, Admirals, High Chancellors, Arch-Biſhops, and High-Conſtables of <hi>England,</hi> is lineally deſcended the High-born <hi>Iſabella, Thereſa, Lucy Stafford,</hi> the Mournful Object of our preſent Grief.</p>
+               <p>
+                  <hi>Great</hi> ſhe was again, by her noble and holy Marriage; being ingrafted into the Ancient and Noble Family of the <hi>Paulets,</hi> and eſpouſed to the right Noble <hi>John,</hi> Mar<g ref="char:EOLhyphen"/>quis of <hi>Wincheſter,</hi> and firſt Marquis of <hi>England.</hi> Now Marriage being a communication of all Rights both Humane and Divine, Wives are in the ſame degree of Honour and Greatneſs as their Husbands; ſo that ſhe
+<pb n="8" facs="tcp:99073:5"/>was the firſt Marchioneſs of <hi>England.</hi> For 'tis a con<g ref="char:EOLhyphen"/>ſtant Maxim in the Law, <hi>
+                     <g ref="char:V">Ʋ</g>xores coruſcant Radiis Ma<g ref="char:EOLhyphen"/>ritorum.</hi>
+               </p>
+               <p>
+                  <hi>Great</hi> ſhe was alſo in her Perſonal Perfections, both of Body and Mind. <hi>Great</hi> for her <hi>Beauty,</hi> hereditary in the Two Illuſtrious Families of the <hi>Staffords</hi> and <hi>How<g ref="char:EOLhyphen"/>ards,</hi> till her Piety found ways to impair it by <hi>Penance</hi> and <hi>Mortification. Great</hi> in her Wit; which was ſharp, quick, ſolid, and capable of managing the greateſt Af<g ref="char:EOLhyphen"/>fairs; as it was ſoon perceived by all that had the Ho<g ref="char:EOLhyphen"/>nour to converſe with her. Nor was this Divine Spark of her Soul ever guilty of thoſe Two common Errors, incident to moſt witty Perſons; namely, to cenſure the moſt innocent Actions, or to ridicule the graveſt things; but it only ſerv'd either to make her Converſation chearful, eaſie, and obliging; or to cover and excuſe the Imperfections of others.</p>
+               <p>All this <hi>Greatneſs</hi> crowded up in the Breaſt of our Noble <hi>Iſabella,</hi> was a great Temptation to Vanity: For, the moſt dangerous Tentation which the Devil preſents to juſt Souls, is, that when they have overcome ſenſual Delights, and ſpurned Riches, his laſt Aſſault to undo them, is Vanity. 'Twas by this Artifice that he trium<g ref="char:EOLhyphen"/>phed over the Sanctity of <hi>Adam,</hi> in ſeducing him by the propoſal of impoſſible Greatneſs: <hi>Ye ſhall be as Gods,</hi> Gen. 3.5.</p>
+               <p>One would have thought he might alſo have over<g ref="char:EOLhyphen"/>come our <hi>Marchioneſs</hi> by this Attempt, and have puf<g ref="char:EOLhyphen"/>fed her up with Pride, in the conſideration of her <hi>Great<g ref="char:EOLhyphen"/>neſs.</hi>
+                  <pb n="9" facs="tcp:99073:5"/>For, next to Crowned Heads, nothing is greater in <hi>England,</hi> than the Nobility; and 'tis not to flatter them, when we ſay, That <hi>they are, in a manner only one Degree lower than the King or Queen:</hi> And I may ſafely add, That amongſt all the Nobility of <hi>Europe,</hi> none enjoy more valuable Prerogatives, than the Nobi<g ref="char:EOLhyphen"/>lity of <hi>England;</hi> and that amongſt our Nobility ſcarce any have been more Illuſtrious. I am ſure, few or none of more ancient Origin, than the Noble Family of the <hi>Staffords.</hi>
+               </p>
+               <p>Nevertheleſs, all this Greatneſs hindred her not from being one of the humbleſt of the Nobility, and an ex<g ref="char:EOLhyphen"/>cellent Example to all her Sex: For, never had Perſon of Honour more eſteem for Humility, than the Series of her Actions ſpake her to have. Nay, her whole Life ſeems to have been ſpent in the exerciſe of this ſo ſingular a Vertue. And firſt, ſhe was humble in her <hi>Attire;</hi> always appearing in a Dreſs ſo plain, that her very Cloathing was a Condemnation of the vain Oſten<g ref="char:EOLhyphen"/>tation which moſt Women place in their Apparel.</p>
+               <p>Garments are the Reproaches of our Sin, as well as Remedies againſt Shame and Pain. Whilſt Man was innocent, he had no other Cloathing, but Original Juſtice; and as it was able to reſiſt all ſort of Weather, it fenced him as well againſt Cold, as Heat; but when he loſt Innocence, he was aſhamed of himſelf, and not being able to bear the Rebellion of his Body againſt the Mind, he was forced to cloath himſelf, not to behold, ſaith St. <hi>Auſtin,</hi> an impudent Novelty, which was the juſt puniſhment of his Rebellion.</p>
+               <pb n="10" facs="tcp:99073:6"/>
+               <p>That War which Creatures wage againſt Man, to re<g ref="char:EOLhyphen"/>venge their Creator, gave him likewiſe new occaſion to cloath himſelf: For as the Elements diſorder themſelves, to puniſh him, and the Seaſons become intolerable, by the exceſs either of Heat or Cold, he was forc'd to have re<g ref="char:EOLhyphen"/>courſe to Garments, as Remedies to the violence of theſe two intollerable Evils. Nevertheleſs, as if we had forgot, that the Uſe of Cloathing is a Puniſhment of our Sin, we turn it into an Ornament; we make our Cloaths inſtru<g ref="char:EOLhyphen"/>mental to our Pride, and, as it were, to inſult over Divine Juſtice, we make up thereof our moſt ſubtle Vanity.</p>
+               <p>The Nobility and Gentry enhaunce therewith the Pomp of their Greatneſs; they diſtinguiſh themſelves from the <hi>Commons,</hi> by the Laviſhneſs of their Cloath<g ref="char:EOLhyphen"/>ing; they reſerve to themſelves Scarlet, Furrs, and Co<g ref="char:EOLhyphen"/>ronets, as infallible Marks of Nobility, and in great Ce<g ref="char:EOLhyphen"/>remonies they endeavour to raiſe admiration and reſpect in the Minds of the People, by the Pearls and Diamonds which cover their Robes: But our humble <hi>Marchioneſs,</hi> who had learn'd from Chriſtian Religion, that Cloath<g ref="char:EOLhyphen"/>ing is but a Supply of loſt Innocence, never put on, but what was mean, thereby to honour the Divine Ju<g ref="char:EOLhyphen"/>ſtice: She choſe plain Stuffs, inſtead of rich Silks; being more concern'd to appear like a <hi>Penitent</hi> in the ſight of God, than like a <hi>Peereſs</hi> in the eyes of Men.</p>
+               <p>As ſhe was humble in her <hi>Cloathing,</hi> ſo ſhe was no leſs in her <hi>Actions;</hi> ſince the chief Employment of this great Lady was, either to converſe with Perſons of Piety, for
+<pb n="11" facs="tcp:99073:6"/>the improvement of her Soul; or with the poor and meaner Condition, for the relief of their Need. Though the Poor are the moſt holy Repreſentations of Chriſt's Perſon; yet they have ſomething that alienates the Mind, and which mortifies our Vanity. Chriſt indeed excites an awful Reverence in us in his other Types and Fi<g ref="char:EOLhyphen"/>gures: And, as he has ſtamped upon them his Power or Glory, they have Charms, that make us either reve<g ref="char:EOLhyphen"/>rence or love them. Thus, there are few Chriſtians, who honour not Chriſt in his chief Miniſters, and, who remembring theſe Words, <hi>He that deſpiſeth you, deſpi<g ref="char:EOLhyphen"/>ſeth me,</hi> Luke 10.16. fear not, leſt the Diſrepect they ſhew to <hi>Prieſts,</hi> may reflect upon him, who ordain'd them to be in the Church.</p>
+               <p>But notwithſtanding all the Care Religion takes, to perſuade us, that Chriſt lives in the Poor, that he ac<g ref="char:EOLhyphen"/>counts done to himſelf the Service done to them; we find great difficulty to overcome that natural Abhor<g ref="char:EOLhyphen"/>rence we have for their Condition. We cannot abide them near us; their Prayers are troubleſome, alas, to us! And that Poverty which overwhelms them, inſtead of raiſing Pity, breeds in us either Horrour or Contempt. We muſt call in Faith to our aſſiſtance, to overcome that averſneſs; and no little Struggle have we with our proud Thoughts, to perſuade our ſelves, that Chriſt full of Glory, is hid in the perſon of theſe Wretches.</p>
+               <p>But our humble <hi>Iſabella,</hi> who judged not of Things by Appearances, who followed not the Suggeſtions of Nature, but thoſe of Grace, and who complied more
+<pb n="12" facs="tcp:99073:7"/>with the Rules of the Goſpel, than with thoſe of the World, often convers'd with the Poor; ſhe adored Chriſt in thoſe ſlighted Members; ſhe penetrated with the Light of Faith, through the Meanneſs of their Con<g ref="char:EOLhyphen"/>dition, through the humility of their Cloaths, and un<g ref="char:EOLhyphen"/>der theſe Clouds did ſhe contractedly ſee the Brightneſs and Majeſty of Chriſt glorious.</p>
+               <p n="3">3. But our Chriſtian <hi>Phoenix</hi>'s Humility was not con<g ref="char:EOLhyphen"/>fined only to the Practice of her Life; but Triumphed alſo after her Death. She was not content to converſe with the Poor whilſt living; but would alſo rank her ſelf with them, when dead: For, the ſtrict Order and Direction ſhe gave for her Burial, was, to be laid in the Church-Yard, which is the common <hi>Dormitory</hi> of the meaneſt Perſons. And that ſhe might not be diſtin<g ref="char:EOLhyphen"/>guiſhed in any kind from them, ſhe forbid any Monu<g ref="char:EOLhyphen"/>ment to be erected, or Stone to be laid on her Grave. She knew that Monuments are Marks of Honour, and that the Intent of them, is to proclaim it to the World, after that we have left to be a part of it. Hence it is, that Perſons of Quality are ſo curious to purchaſe this Honour after their Death, and to rear up ſtately Tombs, to ſerve, as Scripture ſays, for everlaſting Abodes to their Aſhes. <hi>Sepulchra eorum, Domus eorum in aeter<g ref="char:EOLhyphen"/>num,</hi> Pſal. 48.12.</p>
+               <p>But Experience and Religion taught our Illuſtrious <hi>Marchioneſs,</hi> That <hi>Burial</hi> is the laſt State of Chriſtian Penance; That Tombs are the <hi>Chambers of Forgetful<g ref="char:EOLhyphen"/>neſs;</hi> as Scripture ſtiles them, <hi>Terra Oblivionis,</hi> Pſal. 87.
+<pb n="13" facs="tcp:99073:7"/>And accordingly they ſteal out of remembrance thoſe they cover, and draw a black Line over the Glory of Mortal Men. For Death having ſpoil'd them of their Life, takes ſtill delight to plunder their Reputation She then being truly dead to the World, <hi>tanquam mortuus a corde,</hi> Pſal. 30. held, That, as a <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi> is intombed, ſo ought he alſo to be forgotten.</p>
+               <p>Holy Soul! You ſerv'd a King who is too juſt to let your Humility paſs unrewarded. And ſince you are ſo ingenious, to conceal your ſelf from the Eyes of Men, God will take care to make you known to Angels. Since you withſtood the Allurements of wordly Greatneſs and Honour, he will ſtamp upon you true heavenly Glory. And, ſince you reconciled Greatneſs with Humility, the lower you humbled your ſelf, the higher you ſhall be exalted.</p>
+               <p>This firſt Victory, <hi>Chriſtians,</hi> is a Pledge of the ſe<g ref="char:EOLhyphen"/>cond ſhe ſhall win: For, we cannot doubt, that the Right Honourable <hi>Iſabella</hi> of <hi>Wincheſter,</hi> who was humble in Greatneſs, will be conſtant alſo in Afflicti<g ref="char:EOLhyphen"/>ons: That if it, which I am to ſhew you in my next, and laſt Part.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="14" facs="tcp:99073:8"/>
+               <head>PART II. <hi>Her Conſtancy in Afflictions.</hi>
+               </head>
+               <p>THough all Vertues have their Attractives to Good, and ſufficient Charms to make them appear amiable even to thoſe that practiſe them not: Yet <hi>Conſtancy,</hi> or <hi>Fortitude,</hi> like <hi>Saul</hi> among the People, appears ſuper-eminently graceful. Juſtice in<g ref="char:EOLhyphen"/>deed is cried up, even by its Perſecutors; Prudence is adored by Politicians; and Temperance is admired by all Men: But, all theſe Vertues hide their Heads, when <hi>Conſtancy</hi> diſplays its Beauties: Theſe Stars vaniſh when this Sun appears; and People ceaſe from looking upon Juſtice in Princes, Prudence in Politicians, and Tem<g ref="char:EOLhyphen"/>perance in Philoſophers, when they conſider the Cou<g ref="char:EOLhyphen"/>rage of a Perſon unfortunate, yet innocent.</p>
+               <p>If we will believe the Philoſopher <hi>Seneca,</hi> there's no<g ref="char:EOLhyphen"/>thing on Earth more worthy of God's looking on, than a Perſon who withſtands Sorrow and Misfortune: <hi>Ecce Spectaculum dignum! ad quod reſpiciat intentus operi ſuo Deus.</hi> Sen <hi>de Prov.</hi> cap. 2. God deſpiſeth all that Glory which dazels our Eyes; he looks upon the Magnificence of our Palaces, but as the Spoils of Quarries and Fo<g ref="char:EOLhyphen"/>reſts; he looks upon the <hi>Pyramids,</hi> which add to the wonders of the World, but as Marks at which his Thun<g ref="char:EOLhyphen"/>derbolts are often levell'd. And thoſe great Armies, which make whole Provinces groan, either by reaſon of their
+<pb n="15" facs="tcp:99073:8"/>Numbers, or Diſorders; he looks upon theſe great Bodies, I ſay, as Swarms of Bees, that decide their Quarrels by fighting.</p>
+               <p>But God delights to look upon a noble-minded Soul, that grapples with Sorrow, who beholds her Father born away in the manner, as 'tis known to all, without any agitation of Mind, and, who in the loſs of Honour, Life and Liberty, preſerves ſtill her Courage undaunted. This is a Spectacle that raviſheth the very Eyes of God, that makes the Angels to emulate her Glory; This is an Act of Conſtancy not to be laureated on Earth; all un<g ref="char:EOLhyphen"/>der Heaven is too ſmall a Reward.</p>
+               <p>This, <hi>Chriſtians,</hi> is the true Character of our Spiri<g ref="char:EOLhyphen"/>tual <hi>Phoenix, Iſabella</hi> of <hi>Winchester,</hi> who in one Cir<g ref="char:EOLhyphen"/>cumſtance, methinks paſſeth even the Conſtancy of <hi>Job.</hi> For, her Noble Family, in loſing their Fathers Life and Goods, forfeited alſo their Honour. What Hardſhip, what Shame! I appeal to you, Lords and Ladies, for a Perſon deſcended for ſo many Ages, from a long and glorious Succeſſion of <hi>Heroes,</hi> to loſe in a moment the Flower and Glory of her Family? To be debarr'd the Entry of the Houſe of Lords, and to be baniſhed from the Nobleſt Company in the World! This Puniſhment of the Loſs of Honour, was held ſo ſharp, that it per<g ref="char:EOLhyphen"/>verted great Number of the <hi>Primitive Chriſtians,</hi> ſaith <hi>Tertullian,</hi> who yielded ſooner to Shame, and Loſs of Honour, than to Pain, or Loſs of Life; <hi>ante Pudori, quam Dolori ceſſinius,</hi> Tertul. <hi>de Scorp.</hi>
+               </p>
+               <pb n="16" facs="tcp:99073:9"/>
+               <p>Nevertheleſs, our Heroick Lady, drawing ſtrength from her Misfortune, bleſs'd, like holy <hi>Job,</hi> God's Ju<g ref="char:EOLhyphen"/>ſtice, who tried her; his Providence, which exercis'd her; and his Mercy, which ſanctified her: She ſaid with <hi>Job, Our Lord gave it, our Lord hath taken it away,</hi> Job 1.21. And ſhe behaved her ſelf in that Misfortune with ſo much Conſtancy, Reſignation, and Patience, that we may ſafely ſay of her, what Scripture ſaid of him, <hi>In all this</hi> Iſabella <hi>ſinned not in her Lips,</hi> Job 1.22.</p>
+               <p n="2">2. But as ſhe gave ſignal Proofs of her Conſtancy, in the Loſs of her Noble Father; ſo ſhe gave no leſs Marks of her generous Mind, in all her languiſhing <hi>Sickneſs,</hi>
+               </p>
+               <p>If we may judge of a Thing by its contrary, we muſt acknowledge, That of all Natural Goods, there's none more ſweet nor dear, than <hi>Health:</hi> 'Tis a Har<g ref="char:EOLhyphen"/>mony of the Elements and Humors; 'tis a Repreſenta<g ref="char:EOLhyphen"/>tion of Peace; 'tis a Pledge of future Bliſs: And, to declare it in a Word, with St. <hi>Bernard,</hi> 'tis a Benefit that comprehends all the Goods of the Body. <hi>Omnia Bona Corporis Sanitas;</hi> Bern. Serm. <hi>De triplici genere Bonorum,</hi> Therefore, the Juſt, who make a Preſent to God of their Health, and who reſtore it to him, when required, ſhew no ſmall Mark, either of <hi>Humi<g ref="char:EOLhyphen"/>lity,</hi> or <hi>Conſtancy,</hi> That was the laſt Trial of <hi>Job</hi>'s Patience: And when the Devil had raviſhed away both his Goods and Children, he queſtioned not to triumph over his Patience, by depriving him of his Health.</p>
+               <pb n="17" facs="tcp:99073:9"/>
+               <p>Pain then and Sickneſs was the Trial of our humble <hi>Iſabella.</hi> An <hi>Hectick Feaver,</hi> by its ſecret Burnings, kindled a Fire in her Breaſt, with all the Indiſpoſitions that attend that Diſtemper; for, the Fire which burnt her, conſum'd her. But though Fire is of a quick Nature; yet do not you think, <hi>Illuſtrious Auditors,</hi> that it ſoon conſumed her, or that her Sufferings were but ſhort, nor that the ſame Month, ſaw either the be<g ref="char:EOLhyphen"/>ginning, or the end thereof? No, her Sufferings laſted almoſt Three Years, whilſt the end of one Pain was the beginning of another, according to the <hi>Tragedian</hi>'s Expreſſion; <hi>Finis alterius Mali, gradus eſt futuri.</hi> Diſ<g ref="char:EOLhyphen"/>eaſes ſeem'd to agree together, to exerciſe the Patience of her Soul, and contrary to the Laws of Nature, ſet all together upon that innocent Patient.</p>
+               <p>Divine Saviour of <hi>Iſabella,</hi> why didſt thou abandon her to ſuch a lingring Pain? Why didſt thou not ſuc<g ref="char:EOLhyphen"/>cour her, who did ſo often ſuccour thee, in the Perſon of the Poor? Why didſt not thou ſtrengthen thoſe Hands which have been ſo fruitful in good Works? Why didſt thou not relieve that oppreſſed Breaſt which was ſo tender to the Miſeries of others? Why didſt thou not refreſh that parched Mouth, which hath ſo often bleſſed thy holy Name? Finally, Why didſt not thou give Breath to thoſe ſhrivell'd Lungs, that always panted and breathed after thee?</p>
+               <pb n="18" facs="tcp:99073:10"/>
+               <p>O Chriſtians! God knows how to treat his Friends moſt to their Advantage. And therefore our heavenly inſtructed <hi>Phoenix,</hi> left to God the Care of her Life, knowing well, that Sickneſs is the Daughter of Sin, and Mother of Death. Valuing then more God's Glory, than her own Intereſt, ſhe found Content in her Pain; She knew that God's Juſtice is ſatisfied by our Sickneſſes, that his Power appears in our Infirmities; that his Mercy is ſeen in our Recoveries. Beſides, Sickneſs doth wean us from the Earth, and (bereaving us of the Uſe of Pleaſure,) prepares us for a holy Death; which was welcome to our couragious <hi>Heroine,</hi> even under any ſhape whatſoever, under the moſt horrid Forms, whe<g ref="char:EOLhyphen"/>ther ſhameful, cruel, or lingring.</p>
+               <p n="3">3. Hence, Though Death is as frightful as unavoid<g ref="char:EOLhyphen"/>able; yet this moſt <hi>Chriſtian Lady</hi> eſteemed Death rather a Favour, than a Puniſhment. And though this may ſeem a ſtrange Paradox to thoſe that have their Hearts wholly wedded to this Life; yet is it a Maxim approved of by Chriſtians, and embraced by all that are of the Faithful. If Death is frightful, becauſe 'tis the puniſhment of Sin, 'tis alſo pleaſing to good Souls, becauſe it is now the Child of the Croſs. Death has changed Nature, ſince it was conſecrated in the Perſon of Chriſt, who overcame that Monſter by dying, de<g ref="char:EOLhyphen"/>feated it with the Croſs, and triumphed over it, when Death ſeemed to triumph over him: <hi>Mortuus ille, Mortis Interfector,</hi> ſaith St, <hi>Auſtin.</hi>
+               </p>
+               <pb n="19" facs="tcp:99073:10"/>
+               <p>Death has now forgone thoſe dreadful Names, which cauſed Terror to aſſume thoſe pleaſing ones of <hi>Sleep,</hi> from which we ſhall awake refreſhed; of <hi>Paſſage</hi> to eternal Bliſs; of <hi>Sacrifice,</hi> which God requires of us, adds St. <hi>Auſtin,</hi> and whereby his Juſtice is appeaſed, <hi>Mors quae in Lege Naturae erat Poena Peccati facta eſt in Lege Gratiae</hi> HOSTIA <hi>pro Pecoato.</hi> So that what was formerly a Torment, is now become a Favour; and what was formerly the Cauſe of our Fear, is now be<g ref="char:EOLhyphen"/>come the Subject of our Hope. No wonder then, if our Pious Lady, who knew theſe Truths, was free from the Fear of Death. Nay, looking upon Death as rather the end of her Sins, than of her Life, ſhe had Courage enough, even to deſire it.</p>
+               <p>If there is any occaſion, where Chriſtians have the Advantage over Prophane Philoſophers, 'tis chiefly in that which concerns Death. For, not only they fear it not, but they even deſire it: One would think, that the ſame Vertue which makes them faithful, makes them couragious. Wherefore <hi>Tertullian,</hi> defining what Chriſtians are, ſays, 'Tis a ſort of Men diſtinct from all others, by their readineſs to die; <hi>Genus Hominum Morti expeditum. Tert. in Apolog.</hi> Never more content than when nearer their Death: They have always this Thought imprinted in their Minds, and this Deſire engraved in their Hearts. Maids, adds St. <hi>Ambroſe,</hi> who are naturally timorous deſire Death amongſt us;
+<pb n="20" facs="tcp:99073:11"/>and the <hi>Theclas, Agnes</hi> and <hi>Pelagia's</hi> ran to Martyrdom, as the others ran to a Ball, or Comedy: <hi>Apud nos, &amp; Puella de Mortis appetentia, uſque ad Coelum erexere Vir<g ref="char:EOLhyphen"/>tutum gradus, Ambr. Lib.</hi> 2. <hi>Ep.</hi> 7.</p>
+               <p>Our incomparable <hi>Marchioneſs</hi> was of the ſame Mind. Her Love for Chriſt, cauſed in her a Deſire of Death, and to leave her Body, to go and enjoy her God: And thus, as the <hi>Phoenix,</hi> ſpringing out of her Aſhes, ſhe may multiply her Days, and never ſee the End of her Happineſs. <hi>Sicut</hi> Phoenix <hi>multiplic tbo Dies.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <head>The Cloſe.</head>
+               <p>SInce then this Bird of Paradiſe, the Illuſtrious <hi>Iſabella, Thereſa, Lucy Stafford,</hi> Marchioneſs of <hi>Wincheſter,</hi> was humble in her <hi>Greatneſs,</hi> conſtant in her <hi>Afflictions,</hi> let all Chriſtians profit by ſo rare an Example: For, as a Heathen ſaid formerly, <hi>The Great Ones are born to give good Example: Magni nati ſunt in Exemplum;</hi> Vell. Paterculus. Let us learn from this Noble Lady, not only not to fear Death; but even to deſire it. 'Tis but little, <hi>Chriſtians,</hi> not to fear Death, ſince the very Philoſopers overcame that Fear. We muſt grow familiar with this Monſter, which ama<g ref="char:EOLhyphen"/>zeth thoſe that never beheld it. We muſt learn to die whilſt we live. Nay, ſince we are Chriſtians, let's change our Fear into Deſire, our Hatred into Love.
+<pb n="21" facs="tcp:99073:11"/>And being Heirs of God made Man, who changed the Puniſhment of our Crime, into a Sacrifice of Piety; lets deſire what he deſired; let's love what he loved; and lets give him, in dying, Marks of our Obedience: <hi>Non terreant Crucifixi haeredes Mortis Sup<g ref="char:EOLhyphen"/>plicia.</hi> Cypr. Serm. <hi>De Coena Domini.</hi>
+               </p>
+               <p>But as for you; of the Noble Family of the <hi>Staffords,</hi> give me leave to tell you, That you are bound not only to honour her, as a Perſon of Signal Piety; but alſo to <hi>love</hi> her, as your Siſter and Relation; being united by the ſtricteſt Bands of Friendſhip in the world; becauſe you are Children of the ſame right Honoura<g ref="char:EOLhyphen"/>ble Father, and of the ſame Illuſtrious Mother; be<g ref="char:EOLhyphen"/>cauſe you were bred up together in the ſame Family; becauſe you are all Members of the ſame Body, quick<g ref="char:EOLhyphen"/>ned with the ſame Spirit, and inflamed with the ſame Love. And though I hope ſhe is now among the number of Bleſſed Spirits; yet ſhe that was formerly a tender Siſter, ſlights you not now: But, as <hi>Joſeph</hi> in his <hi>Great<g ref="char:EOLhyphen"/>neſs,</hi> ſtill preſerved Love for his Brethren, though un<g ref="char:EOLhyphen"/>worthy thereof; ſhe ſtill retains Love for you, who ſo juſtly deſerve it.</p>
+               <p>But joyn <hi>Imitation</hi> with your Love: For, 'tis in vain you love her, if you reſemble her not. <hi>Homage,</hi> without <hi>Imitation,</hi> is injurious to thoſe that receive it. You are more bound to imitate your Anceſtors, than
+<pb n="22" facs="tcp:99073:12"/>others; becauſe, being your Domeſtick Patterns, their Condition takes away all Excuſe, and their Actions ought rather to be your Laws, than Examples. Or<g ref="char:EOLhyphen"/>der then your Lives according to hers; make uſe of that good Example ſhe has left you, in becoming like her, humble in your <hi>Greatneſs,</hi> (and conſtant) in your <hi>Afflictions;</hi> to the end, that being partakers of her Vertues on Earth, you may pretend to the Glory, which we hope ſhe enjoys in Heaven, and like this Spi<g ref="char:EOLhyphen"/>ritual <hi>Phoenix, multiply your Days</hi> of Happineſs, for all Eternity. <hi>Amen.</hi>
+               </p>
+               <closer>She Departed this Life, <date>
+                     <hi>Sept.</hi> 2. 1691.</date>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:99073:12"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
